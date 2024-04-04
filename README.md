@@ -6,6 +6,11 @@
 
 This project is a personal journey into health data analytics, focusing on weight and body composition metrics. By harnessing the power of the Renpho scale API, I've developed a system that uses an LSTM model to predict future weight trends based on historical data. This endeavor not only showcases the potential of machine learning in personal health management but also provides a blueprint for similar applications.
 
+## API
+https://github.com/antoinebou12/hass_renpho
+hass-renpho.vercel.app/docs
+
+
 ### Features
 
 - **Data Collection**: Automatic retrieval of weight and body fat percentage data from the Renpho scale API.
